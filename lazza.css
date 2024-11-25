@@ -1,0 +1,87 @@
+/*HEADER*/
+.header{
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+    background-color: #58151c;
+    height: 7.5rem;
+}
+.dropdown-btn {
+ display: inline-flex;
+}
+.d-block{
+    height: 2rem;
+    width: 20rem;
+    margin-top: 0;
+align-items: center;
+justify-content: center;
+color:#a8b2bb ;
+}
+.para{
+  margin-bottom:0 ; 
+  margin: top 0; 
+}
+.form-control-sm{
+    width: 15em;
+}
+.v1{
+    border-left: 2px solid white;
+    height: 1.1em;
+    display: inline-block;
+    margin-right: .9em;
+  }   
+.video-frame{
+    display: inline-block;
+    box-sizing: border-box;
+    width: 100%;
+}
+.video-frame{
+    padding-top: 7.5rem;
+}
+h2{
+   text-align: center; 
+}
+.card{
+    font-size: 1.1em;
+    font-weight: 500;
+    background-color: #f4eeef;
+}
+.rupee{
+   font-size: 1.3em;
+   font-weight: bold; 
+}
+/*story heading style*/
+.lazza-story-heading{
+    font-size: 2.5em;
+}
+/*about us*/
+
+.about{
+    font-size: 2.4em;
+    font-weight: bold;
+    color: #3c090e;
+}
+.para-about{
+    font-size: 1.7em;
+    font-weight: 500;
+}
+.para-about-one,.list-item{
+font-size: 1.2em;    
+}
+.about-imgs{
+    margin-top: 2em;
+    display: inline-block;
+}
+/*icons*/
+.fa-magnifying-glass, .fa-user, .fa-cart-shopping{
+ width: 2em;
+ height: 3em;
+margin-top: 1.4em; 
+color: goldenrod; 
+}
+.f-heading{
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+@media (max-width)
